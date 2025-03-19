@@ -1,0 +1,15 @@
+{
+  "name": "container2",
+  "version": "1.0.0",
+  "description": "This is container 2 for k8s assignment",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "author": "Akshat Gulati",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
