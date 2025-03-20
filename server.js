@@ -4,8 +4,8 @@ const readline = require('readline');
 const path = require('path');
 
 const app = express();
-const PORT = 8080
-const STORAGE_PATH = "../dataTest";
+const PORT = 8000
+const STORAGE_PATH = "/akshat_PV_dir";
 
 app.use(express.json());
 
